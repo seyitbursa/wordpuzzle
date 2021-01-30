@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40e9f458d084b4f55bb62b3f13fa1492, type: 3}
+  m_Name: LevelInformation
+  m_EditorClassIdentifier: 
+  levelId: 1
+  backgroundImages:
+  - {fileID: 21300000, guid: cd937b4281cde4807a3709687180bac4, type: 3}
+  - {fileID: 21300000, guid: 1eb312f4a298740d0965b45224115be5, type: 3}
+  - {fileID: 21300000, guid: 2dd2dafff3eac4dc39dcfaf828aaf01d, type: 3}
+  - {fileID: 21300000, guid: 3a8c9b5d660954bb1a464c17a95a1848, type: 3}
+  - {fileID: 21300000, guid: 0e9880d54434d4a28aff613f1a073577, type: 3}
+  DefaultColor: {r: 1, g: 1, b: 1, a: 1}
+  ImageColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  TextColor: {r: 1, g: 1, b: 1, a: 1}
